@@ -1,0 +1,5 @@
+C:\Users\PCX\Documents\sbes\sbes_project\DB_Users\obj\Debug\DB_Users.csproj.CoreCompileInputs.cache
+C:\Users\PCX\Documents\sbes\sbes_project\DB_Users\bin\Debug\DB_Users.dll
+C:\Users\PCX\Documents\sbes\sbes_project\DB_Users\bin\Debug\DB_Users.pdb
+C:\Users\PCX\Documents\sbes\sbes_project\DB_Users\obj\Debug\DB_Users.dll
+C:\Users\PCX\Documents\sbes\sbes_project\DB_Users\obj\Debug\DB_Users.pdb
